@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ondra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ondra\\.nuget\\packages"
+    ]
+  }
+}
